@@ -21,7 +21,7 @@
             <props>
                 <prop key="index.htm">controlador</prop>
                 <prop key="delete.htm">controlador</prop>
-                <prop key="update.htm">controlador</prop>sdassad
+                <prop key="update.htm">controlador</prop>
                 
             </props>
         </property>
